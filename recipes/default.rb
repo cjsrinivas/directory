@@ -10,8 +10,8 @@ group 'webusrs' do
 end
 
 # Create the coimbato user
-user 'coimbato' do
-  comment 'Srinivas Coimbatore'
+user 'apachusr' do
+  comment 'FirstName LastName'
   gid 'webusrs'
   home '/home/coimbato'
   shell '/bin/bash'
